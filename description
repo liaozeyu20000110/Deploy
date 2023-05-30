@@ -1,0 +1,6 @@
+cuda 11.6
+cudnn 8.9.0
+pytorch 1.12.0
+torchvision 0.13.0+cu116
+onnx                          1.14.0
+onnx-graphsurgeon             0.3.12
